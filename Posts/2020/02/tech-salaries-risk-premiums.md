@@ -10,9 +10,9 @@ _This blog post was supposed to come out two years ago in response to, I think, 
 
 After literally years of people telling me I should read [Matt Levine’s Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine), I finally started reading Matt Levine’s Money Stuff. One takeaway from this is that I am susceptible to social pressure if I respect the people applying the pressure highly enough. The more interesting takeaway is the conversation I had with [Asheesh Laroia](https://www.asheesh.org/) immediately after reading a particular edition of Money Stuff.
 
-> Asheesh: "risk premium" is a powerful concept, and I really love that Matt Levine gets that.
-> Me: All tech salaries are risk premiums in both directions.
-> o_0 I need like a 3 sentence version of that.
+> Asheesh: "risk premium" is a powerful concept, and I really love that Matt Levine gets that.  
+Me: All tech salaries are risk premiums in both directions.  
+Asheesh: o_0 I need like a 3 sentence version of that.
 
 Here’s the much-more-than-3 sentence version that started in my head and ended up as a collaboration between Asheesh and I.
 
