@@ -8,5 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: display variables
+      env:
+        BLOT_URL: ${{ secrets.BLOT_URL}}
       run: |
-        git clone ${{ secrets.BLOT_URL }} .
+        git clone $BLOT_URL .
