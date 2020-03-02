@@ -1,0 +1,12 @@
+name: Push to Blot
+on:
+  push:
+    branches: master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: display variables
+      run: |
+        echo ${{ BLOT_URL }}
