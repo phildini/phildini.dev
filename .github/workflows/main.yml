@@ -1,4 +1,5 @@
-name: Push to Blot
+name: Publish to blot.im
+
 on:
   push:
     branches: master
@@ -7,9 +8,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: display variables
+    - uses: actions/checkout@v1
+    - name: Publish to blot
+      uses: phildini/github-to-blot@master
+      with:
+        args: "https://blot.im/clients/git/end/phildinidev.git"
       env:
-        BLOT_URL: ${{ secrets.BLOT_URL}}
-      run: |
-        git remote set-url blot $BLOT_URL
-        git push -u blot master
+        BLOT_USERNAME: "phildini@phildini.net"
+        BLOT_TOKEN: ${{ secrets.BLOT_TOKEN }}
+
