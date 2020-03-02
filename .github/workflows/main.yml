@@ -11,4 +11,5 @@ jobs:
       env:
         BLOT_URL: ${{ secrets.BLOT_URL}}
       run: |
-        git clone $BLOT_URL .
+        git remote set-url blot $BLOT_URL
+        git push -u blot master
