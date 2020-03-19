@@ -1,5 +1,5 @@
 Permalink: /brief-guide-locking-down-your-mastdon-account/
-Title: A Brief Guide to Locking Down You Mastodon Account
+Title: A Brief Guide to Locking Down Your Mastodon Account
 Date: 2017-10-22
 Tags: open-source,tech,wandering-shop,security,privacy
 
