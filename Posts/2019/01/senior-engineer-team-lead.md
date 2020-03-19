@@ -1,0 +1,26 @@
+Permalink: /senior-engineer-team-lead/
+Date: 2019-01-01
+Title: Senior Engineer -> Team Lead
+Tags: tech, management
+
+# Senior Engineer -> Team Lead
+
+In November, I was promoted from Senior Software Engineer to Team Lead. As of right now, I lead the Platform team at Patreon, and have three software engineers who report to me. I want to talk about how I realized this was something I wanted, how I made this happen for me, and why I’m excited about it. 
+
+First, how did I think this was something I wanted? It’s helpful to know that I am mercilessly driven by the idea of impact. At least once a week, and sometimes multiple times a day, I ask myself these questions: “Am I working on the highest-impact thing I could be working on? If not, why not?” Being impact-driven (which dovetails nicely with being outcomes-driven for devotees of that brand of organizational thinking) means that I’m always looking to increase my impact, and especially looking for tools that will give me more leverage.
+
+For the kind of impact I want to have, the impact to shape customers’ experiences and shape the paths of teams and shape the careers of individuals, the tools available to managers and team leaders are more impactful than the tools available to engineers. Now, I expect some disagreement to that statement, and I welcome discussion in the comments. For the goals I care about, the tools of a manager are higher impact than the tools of an engineer.
+
+How did I make this happen for me? I saw an opportunity, and I pushed for it. That sentence masks a truly monumental amount of privilege, and luck, institutional biases that I think about a lot. Would a non-white, non-dude have been as successful in their push? What institutional biases might have kept those around me from pushing? So, there’s a lot hidden that I would love to go into in another post when I say: “I saw an opportunity, and I pushed for it.”
+
+What opportunity? Well, Patreon is constantly working on becoming a more lean, more agile shop. As a result, in the Summer of this year an Engineering Director was leading the Platform team, at a critical time in the Platform team’s history. We were in the middle of trying to launch the Reddit integration, our Product Manager was on his way out to work full-time on being an author, and we had just hired a new grad engineer. I saw that there was an opportunity for a strong leader to step forward, so I did. What followed was a month and a half of me talking to peers, managers, directors, VPs, and HR folk, to see how feasible this was. I ended up writing my own job description for role that I now occupy, and then vetting that job description in another round with the people I listed above. I began pushing in late September, and in early November my transition to Team Lead become official.
+
+As an aside, why “Team Lead” and not “Engineering Manager”? For one, I’m still doing some engineering work, on the order of 40% of my time. This doesn’t mean “I’m coding 40% of my time” but it does mean I’m doing “Senior Engineer” things with 40% of my time, and “Team Lead” things with the other 60%. I’m also Team Lead for the team I was a Senior Software Engineer on, the Platform team at Patreon, and as a result my number of direct reports is fairly small compared to other Engineering Managers at Patreon.
+
+This is probably obvious since I said above that I wrote the job description, but I am the first and so far only Team Lead at Patreon. There are others who I think would be great at the role, and this is one of the reasons I’m excited about it: Team Lead hopefully gives engineers a chance to explore management without “closing the door” on returning to engineering.
+
+Why am I so excited? At the root is how much I am excited about Patreon, and especially my team at Patreon, and what I think the Platform team is capable of. I’d also be lying by omission if I didn’t mention a few other things: I’m excited by the challenges that management presents, and how different they are from engineering. I’m excited to learn about a whole new discipline of work that has so much impact on engineering, but is not strictly engineering. I’m excited to gain a new lens through which to see the world.
+
+I also really hope I don’t fuck it up. I want to do right by myself, my reports, and the company, in roughly that order. If I’m not doing right by me, I can’t be an effective leader or example. If I’m not doing right by my reports, then my team as a whole suffers, and my measured output as a manager crumbles. If my team is unhappy or unproductive, then the company will as a whole will suffer. The challenge of having to manage the stack of responsibilities, of having to coordinate conflicting demands, of figuring out how to build a team while meeting the needs of each person on the team is a challenge that I’m exceptionally excited about.
+
+Want to know more? Want to challenge me on my thinking or ask questions about how I got here? Leave a comment below or ping me on mastodon at [@phildini@xoxo.zone](https://xoxo.zone/@phildini).
