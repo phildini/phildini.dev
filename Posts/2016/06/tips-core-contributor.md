@@ -1,6 +1,6 @@
 Permalink: /tips-becoming-core-contributor/
 Title: Tips for Becoming a Core Contributor
-Date: 2020-06-05
+Date: 2016-06-05
 Tags: advice,python,open-source
 
 # Tips for Becoming a Core Contributor

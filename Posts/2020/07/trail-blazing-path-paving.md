@@ -1,0 +1,29 @@
+Title: Trail blazing, path paving
+Tags: making,biodynamics,apps
+Date: 2020-07-10
+
+# Trail blazing, path paving
+
+Growing up, I was incredibly lucky to have regular access to two staggeringly beautiful places. One was the Santa Cruz mountains, and specifically the camp in Felton where my family often volunteered and vacationed. The other was the property my great-grandparents owned in the Calabasas highlands. From one angle, these places are shockingly different. The forests of Santa Cruz are lush and verdant all year round; the valleys of Calabasas tend towards the scrubby and dry. From another angle, these places are incredibly similar: they are elevated preserves of what the regions offer, entire ecosystems wrapped around hills. Humanity can only access these places by making trails through the peaks and valleys.
+
+My time in Santa Cruz and Calabasas taught me two things to know about trails. The first is that trails happen in two parts: the trail blazing, and the path paving.
+
+Trail blazing is looking at the shape of the land and seeing the way of least resistance across it or up it. You pull on pants that won’t catch on the bushes, grab a machete and maybe a shovel, and work with the land to find a way from where you are to where you want to go, with the minimum of fuss. Fuss is still required, of course. You’ll need to cut branches out of the way, or move boulders that would be too hard to navigate around, and sometimes dig into the side of the hill to be sure of your footing when you come back. But you work with the land to accomplish your goal. When you’re done what you’re left with is a trail that is functional, that the adventurous can follow, but needs work for most to walk it.
+
+Path paving comes after trail blazing. Paving is when a group comes along and makes the trail, which is still totally usable for ambitious, and transforms it into a path more people can use. This is when the brush and ground are edged back, when steps up the mountain are installed, when handrails and solid bridges are built. Path paving takes the work of the trail blazer, functional but still daunting, and turns it into a friendly road for all.
+
+This is to my mind the ideal model for building applications on the internet, and exactly backward of how many companies build today. Trail blazing for apps starts with just the backend and the browser. We build something functional, something useful, but something that is still rough, and only really accessible to those who are willing to get hit in the face with a tree branch every once in a while. We don’t build just an API and throw it over the wall, we build the basic, but complete, experience. Frameworks like Django and Ruby on Rails shine here, and in many ways this is what they were made for.
+
+With a functional, usable, but still largely unfriendly application, we begin path paving. We replace the basic styles we started with, like Bootstrap or Tailwind, with work that is customized for the app’s needs. We add reactive components and features to provide a better experience for the customer, and add the digital equivalent of stairs and handrails to make our app accessible to all. We carefully go over each potential snag and place a user could fall, and point out the way around it, or move it slightly off the path.
+
+It’s important to see there that nowhere are we clear cutting or steamrolling. The web has a natural shape, a flow, a way it wants to be used, and our job is to go with the flow of the web.
+
+This is how we build at [Galaxy Brain](https://galaxybrain.co). Philip, or Philip and Liam together, blaze trail, and get a functional backend and front end that brave early adopters could use in its entirety. Then Liam, or Liam and Philip together, pave path, and with the experiences of their early hikers to guide them, make the app accessible to all. We are judicious in where we use technologies like React, which is the web equivalent of industrial farming, but rely deeply on tools like [Sass](https://sass-lang.com/) and [Stimulus](https://stimulusjs.org/) and [Django](https://www.djangoproject.com/), which were built to work with the grain of the web.
+
+This approach helps with the second thing to know about trails and, correspondingly, web apps: They both need maintenance, and often the more complicated they are, the more complicated the maintenance. When you over-farm a field, you have to regularly re-invigorate the soil with expensive, external nutrients. When you cut a road into the side of the mountain, you need to invest in expensive retaining walls that need regular repair. When you overwrite the shape of the web, the tools the browser provides, with your own replacements, you have made a retaining wall of code. Your hope is that the next browser version will not cause a landslide of API changes.
+
+This approach to apps influences not just technology choices, but product choices. There are things that the browser does not naturally want to do; we've all seen apps where the behavior of the "back" and "forward" buttons is unpredicatable. We've chosen not to do anything that's the equivalent of blowing holes in mountains on the web, and as a result we can build a maintain a suite of apps with only two veyr-part-time developers.
+
+We blaze trail, and then we pave path, and we do both with tools that fit the shape of the web. Doing this lets us deliver apps we’re proud of faster, with less time focusing on the technology, and more time focusing on our business and our lives. If this is possible for us, it's possible for you.
+
+If you want to learn more, or work with us, drop us a line at [hello@galaxybrain.co](mailto:hello@galaxybrain.co).
