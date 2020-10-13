@@ -4,7 +4,7 @@ Date: 2020-10-13
 
 # The City, Inc. board of directors
 
-This post owes its inspiration, as so many posts do, to a tweet from patio11. I have tremendous respect for Patrick, and enjoy every conversation I have with him, but in this particular case I think he's wrong, and he's wrong in a subtle way that took me a long time to understand, because it goes against our idea of what an elected official in the US does, especially at the local level.
+This post owes its inspiration, as so many posts do, to a [tweet from patio11](https://twitter.com/patio11/status/1303208835465637889). I have tremendous respect for Patrick, and enjoy every conversation I have with him, but in one particular case I think he's wrong, and he's wrong in a subtle way that took me a long time to understand, because it goes against our idea of what an elected official in the US does, especially at the local level.
 
 I'm going to put this in corporate tech-ish business terms, because that's my bias and most of my readership: Your elected officials aren't individual contributors. They aren't even management. They are the Board of Directors.
 
