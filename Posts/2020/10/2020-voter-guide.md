@@ -37,7 +37,7 @@ Note: The State of California calls it's ballot initiatives "Propositions". Alam
 
 ## The Weeds
 
-**President: Biden/Harris**. Hopefully the Presidential choice is a no-brainer if you're reading this. If you're undecided, I'm confused. If you don't like this democratic duo, then I hope you'll join me in voting them in and committing to spending the next four years hell-raising so to keep them moving left.
+**President: Biden/Harris**. Hopefully the Presidential choice is a no-brainer if you're reading this. If you're undecided, I'm confused. If you don't like this democratic duo, then I hope you'll join me in voting them in and committing to spending the next four years hell-raising to keep them moving left.
 
 **Congress: Barbara Lee speaks for me.** That's it that's the tweet.
 
