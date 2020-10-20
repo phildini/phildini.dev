@@ -28,8 +28,8 @@ Note: The State of California calls it's ballot initiatives "Propositions". Alam
 - Measure 20: NO
 - Measure 21: Yes
 - Measure 22: NO
-- Measure 23: Yes
-- Measure 24: Yes
+- Measure 23: *edit* No Endorsement
+- Measure 24: *edit* NO
 - Measure 25: Yes
 - Measure V: Yes
 - Measure W: Yes
@@ -88,9 +88,9 @@ I wish Chris a long and well-earned retirement when Victoria Fierce takes his se
 
 **Measure 22: NO** Hell no. Uber and Lyft treat their drivers like employees, and should have to actually provide them those protections.
 
-**Measure 23: Yes** Yes? No? I'm on a knife-edge for this one, but the way it's worded it might be fine? Feel free to reject my endorsement here.
+**Measure 23: No Endorsement** ~~Yes? No? I'm on a knife-edge for this one, but the way it's worded it might be fine? Feel free to reject my endorsement here.~~ Edited because some friends pointed out some things I missed, and now I think it shouldn't even be on the ballot.
 
-**Measure 24: Yes** This isn't a perfect privacy law. There is no perfect privacy law. This is at least getting people to think about it.
+**Measure 24: NO** ~~This isn't a perfect privacy law. There is no perfect privacy law. This is at least getting people to think about it.~~ Edited after some actual privacy experts changed me thinking.
 
 **Measure 25: Yes** Cash bail is awful. The suggested replacement is only maybe less awful, but at least doesn't fund the predatory bail bond industry.
 
