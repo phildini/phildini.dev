@@ -24,6 +24,7 @@ Note: The State of California calls it's ballot initiatives "Propositions". Alam
 - Measure 16: Yes
 - Measure 17: Yes
 - Measure 18: Yes
+- Measure 19: Yes
 - Measure 20: NO
 - Measure 21: Yes
 - Measure 22: NO
