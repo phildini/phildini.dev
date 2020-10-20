@@ -4,6 +4,8 @@ Date: 2020-10-20
 
 # 2020 Alameda Voter Guide
 
+Note: The State of California calls it's ballot initiatives "Propositions". Alameda County lists them as "Measures". I'm speaking to Alameda County here, so they're listed as Measures.
+
 ## Summary
 
 - President: Biden/Harris
