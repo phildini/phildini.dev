@@ -51,9 +51,9 @@ Date: 2020-10-20
 
 **Alameda City Council** Here's the hardest one on this list. Let's start with the easy part of it. Malia Vella is a shoe-in. She is possibly the most dedicated public servant I have met, and has received nothing but garbage from the worst parts of this city. After the kerfluffle with the fire chief, she was served suits multiple times in an attempt to recall her, suits she had to defend out of her own pocket while trying to have her first child. It says something rotten about Alameda that she has received so much abuse while others get wrist-slaps in the press. Beyond that, her voting record and activist work speaks for itself in her tireless defense of the most vulnerable.
 
-Jim Oddie is harder, for me. I like Jim. I want to get beers with Jim. I went to school with Jim's daughter. But Oddie's record is... not spotty, but confusing. He has a tendency lean towards the center when pushed, especially in oral statements at council. I wish he would commit more, and his handling of certain gaffes, like the Fire Chief kerfluffle, leave a lot to be desired. 
+Jim Oddie is harder, for me. I like Jim. I want to get beers with Jim. I went to school with Jim's daughter. But Oddie's record is... not spotty, but confusing. He has a tendency to run towards the center when pushed, especially in oral statements at council. I wish he would commit more, and his handling of certain gaffes, like the Fire Chief kerfluffle, leave a lot to be desired. 
 
-But his opponents are awful, so he's a comparatively easy choice. Gig Codiga is a Republican who, based on his campaign website, might be keeping a red hat in his closet. Amos White is a nice guy, but I can't really tell what he stands for or what he plans to get done. Trish Spencer continues to fight tirelessly for the rights of the aggrieved money classes, the landlords and realtors of Alameda, and has a track record of making sure teachers in Alameda know their place at the bottom of the totem pole.
+But his opponents are awful, so he's a comparatively easy choice. Gig Codiga is a Republican who, based on his campaign website, might be keeping a red hat in his closet. Amos White is a nice guy, but I can't for the life of me tell what he stands for or what he plans to get done. Trish Spencer continues to fight tirelessly for the rights of the aggrieved money classes, the landlords and realtors of Alameda, and has a track record of making sure teachers in Alameda know their place at the bottom of the heap.
 
 Vella, Oddie, in that order.
 
@@ -87,11 +87,11 @@ I wish Chris a long and well-earned retirement when Victoria Fierce takes his se
 
 **Measure 24: Yes** This isn't a perfect privacy law. There is no perfect privacy law. This is at least getting people to think about it.
 
-**Measure 25: Yes** Cash bail is awful. The suggested replacement is hopefully less awful, but at least doesn't fund the predatory bail bond industry.
+**Measure 25: Yes** Cash bail is awful. The suggested replacement is only maybe less awful, but at least doesn't fund the predatory bail bond industry.
 
 ### County Measures
 
-**Measure V: Yes** Yes? I guess? The unincorporate areas need services, so... we should collect taxes to pay for those services?
+**Measure V: Yes** Yes? I guess? The unincorporated areas need services, so... they should collect taxes to pay for those services?
 
 **Measure W: Yes** Half a percent sales tax to provide services to the homeless seems good? I wish it were a parcel tax, but you get what you get.
 
