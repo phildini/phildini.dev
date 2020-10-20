@@ -77,7 +77,7 @@ I wish Chris a long and well-earned retirement when Victoria Fierce takes his se
 
 **Measure 19: Yes** Our property tax law is broken and makes everything else we do harder. I wish this went further, but it's a start.
 
-**Measure 20: NO** I'm pretty sure we as a society want more restoartive justice, not more prisons.
+**Measure 20: NO** I'm pretty sure we as a society want more restorative justice, not more prisoners.
 
 **Measure 21: Yes** More rent control sounds great!
 
