@@ -10,7 +10,7 @@ I could go into why I think these processes develop, but we're going to try and 
 
 So what does a simple performance review process look like? Let's start with some reasons we want to review a report's performance. This is not an exhaustive list, but these are pretty common in my experience:
 
-- Your boss wants to know how a report is doing, and we want to give them something more than "vibes", we want a document to deliver
+- Your boss wants to know how a report is doing, and you want to give them something more than "vibes", you want a document to deliver
 - You want to give the report direction on where they stand and how to improve
 - You're evaluating whether the report is ready to move to the next level, or get more compensation
 
