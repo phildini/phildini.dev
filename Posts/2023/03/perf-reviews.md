@@ -1,8 +1,8 @@
-Title: You're making your performance reviews too complicated
+Title: You're making performance reviews too complicated
 Tags: management, performance
 Date: 2023-03-21
 
-# You're making your performance reviews too complicated
+# You're making performance reviews too complicated
 
 I've never met a manager who loves "perf review season", and the way most companies run their perfomance reviews it's pretty easy to understand why. As a company scales, there seems to be an irresistible urge to make performance reviews more and more complicated. I've seen processes where the HR team will spend three months defining values, then another month defining the process for reviewing an employee's performance against those values, then another month training managers on the process, leading up to a month where the managers have to scramble to collect peer feedback, self-feedback, manager feedback, and then synthesize all that into a single document to deliver to a report. 
 
