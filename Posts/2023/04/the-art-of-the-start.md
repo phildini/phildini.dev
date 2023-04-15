@@ -4,7 +4,7 @@ Date: 2023-04-14
 
 # Key insights from "The Art of the Start"
 
-I first read Guy Kawasaki's "The Art of the Start" when I was in college, and didn't really know if startups were going to be my whole career, or if I was going to ever start one. As I look towards going further and further down that path, I revisited the book and took notes on what I found to be the greatest insights. There's no real order here, this is a reference mainly for me that I'm putting out in the world so I can find it again later.
+I first read Guy Kawasaki's "[The Art of the Start](https://boundcovers.com/book/30265/s/the-art-of-the-start)" when I was in college, and didn't really know if startups were going to be my whole career, or if I was going to ever start one. As I look towards going further and further down that path, I revisited the book and took notes on what I found to be the greatest insights. There's no real order here, this is a reference mainly for me that I'm putting out in the world so I can find it again later.
 
 ## Getting Started
 
