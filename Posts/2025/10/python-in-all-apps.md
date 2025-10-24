@@ -36,3 +36,5 @@ If this is a world you want to live in, what can you do?
 ---
 
 _(Hey Anaconda: "package your Jupyter notebook for your app as a service" is a pretty compelling offering, and you should hire me to help build it ❤️)_
+
+Thanks to [glyph](https://blog.glyph.im/) for early review on this post.
